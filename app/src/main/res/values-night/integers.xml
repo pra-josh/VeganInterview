@@ -1,0 +1,6 @@
+<resources>
+
+    <integer name="enter_duration">300</integer>
+    <integer name="exit_duration">350</integer>
+
+</resources>
